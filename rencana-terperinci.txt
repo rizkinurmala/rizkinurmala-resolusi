@@ -3,9 +3,11 @@ rencana terperinci
 javascript
 -ES6
 -FRAMEWORK JAVASCRIPT
- *vue
- *react
+
+*angular
+*react
 struktur data dasar
+
 php frameworks
 -laravel
 interview
