@@ -3,6 +3,7 @@ rencana terperinci
 javascript
 -ES6
 -FRAMEWORK JAVASCRIPT
+struktur data dasar
 php frameworks
 interview
 vlogs
