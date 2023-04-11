@@ -3,10 +3,13 @@ rencana terperinci
 javascript
 -ES6
 -FRAMEWORK JAVASCRIPT
+
 *angular
 *react
+struktur data dasar
 
 php frameworks
 -laravel
 interview
 vlogs
+phyton
